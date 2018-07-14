@@ -1,0 +1,12 @@
+{
+  "name": "simple-writeable-stream",
+  "version": "0.1.0",
+  "description": "a simple writeable stream for tutorial",
+  "main": "index.js",
+  "author": "0neSe7en",
+  "license": "MIT",
+  "dependencies": {
+    "bindings": "^1.3.0",
+    "node-addon-api": "^1.3.0"
+  }
+}
